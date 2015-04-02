@@ -1,6 +1,6 @@
 title: Snow covered home
 email: jaywinddd@gmail.com
 description: My first blog
-baseurl: /blog/ # the subpath of your site, e.g. /blog/
+baseurl: ./ 
 url: http://jaywinddd.github.io 
 github_username:  jaywinddd
